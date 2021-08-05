@@ -20,13 +20,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albino98)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albino98&show_icons=true)
-
-
-
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mik3sw&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik3sw&layout=langs_count=8" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=albino98&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albino98&layout=langs_count=8" />
 </div>
