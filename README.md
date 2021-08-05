@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=albino98&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=albino98&theme=gruvbox&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
