@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=albino98&theme=gruvbox&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
