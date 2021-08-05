@@ -1,21 +1,17 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=albino98&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+
+Hi, I'm Albino Cianciotti, **student and developer** from Italy. Currently I work with the .NET framework, Oracle and SqlServer for the development of web applications. In my free time I dedicate myself to developing small projects that I post here on GitHub.
+
+- 🔭 I’m currently working on Web Applications web applications developed in .net
+- 🌱 I'm currently learning the programming of microcontrollers such as Esp32, Esp8266, Arduino, etc. and more generally the world of electronics
+
 <!--
-**albino98/albino98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Arduino
 -->
 
 
