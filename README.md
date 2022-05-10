@@ -2,7 +2,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=albino98&theme=gitdimmed&margin-w=15&margin-h=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=albino98&theme=flat&margin-w=15&margin-h=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <br>
