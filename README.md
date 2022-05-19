@@ -15,9 +15,8 @@ Hi, I'm Albino Cianciotti, **student and developer** from **Italy**. Currently I
 
 
 
-<!--
-- 💬 Ask me about Arduino
--->
+
+
 
 <br>
 <br>
