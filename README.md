@@ -33,7 +33,7 @@ Hi, I'm Albino Cianciotti, **student and developer** from **Italy**. Currently I
 
 <!--
 [![Visits Badge](https://badges.pufler.dev/visits/albino98/albino98)](https://badges.pufler.dev)
--->
+
 ![Profile views](https://gpvc.arturio.dev/Albino98)
 [![Years Badge](https://badges.pufler.dev/years/albino98)](https://badges.pufler.dev)
-
+-->
