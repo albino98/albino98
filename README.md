@@ -11,7 +11,7 @@ Hi, I'm Albino Cianciotti, **student and developer** from **Italy**. Currently I
 
 - :computer: I’m currently working on [AirQualityMonitor-Mega2560-MQ135](https://github.com/albino98/AirQualityMonitor-Mega2560-MQ135)
 - :books: I'm currently learning the programming of microcontrollers such as Esp32, Esp8266, Arduino, etc. and more generally the world of electronics
-- 📫 Contact me by ✉️ [Email](mailto:albino.cianciotti@pm.me)
+
 
 
 
