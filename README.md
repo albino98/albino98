@@ -9,7 +9,7 @@
 
 Hi, I'm Albino Cianciotti, **student and developer** from **Italy**. Currently I work with the .NET framework, Oracle and SqlServer for the development of web applications. In my free time I dedicate myself to developing small projects that I post here on GitHub.
 
-- :computer: I’m currently working on [Air-Quality](https://github.com/albino98/Air-Quality)
+<!-- - :computer: I’m currently working on [Air-Quality](https://github.com/albino98/Air-Quality) -->
 - :books: I'm currently learning the programming of microcontrollers such as Esp32, Esp8266, Arduino, etc. and more generally the world of electronics
 
 
