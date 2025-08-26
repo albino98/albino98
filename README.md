@@ -2,11 +2,13 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=albino98&theme=flat&margin-w=15&margin-h=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=albino98&theme=flat&margin-w=15&margin-h=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <br>
 <br>
 
+
+-->
 Hi, I'm Albino Cianciotti, **student and developer** from **Italy**. Currently I work with the .NET framework, Oracle and SqlServer for the development of web applications. In my free time I dedicate myself to developing small projects that I post here on GitHub.
 
 <!-- - :computer: I’m currently working on [Air-Quality](https://github.com/albino98/Air-Quality) -->
