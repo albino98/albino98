@@ -1,25 +1,48 @@
-## Hi there! <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> --> 👋
+# 👋 Hi there!
 
-<br>
+## 💻 About Me
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=albino98&theme=flat&margin-w=15&margin-h=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) 
+I am a **Software Developer from Italy** with a professional focus on the Microsoft and Oracle technology stacks. In my free time, I love working on **Arduino** and **Python** projects, exploring new ideas in electronics and programming.
 
-<br>
-<br>
+---
 
+## 🏢 Professional Stack
 
+- **.NET & Microsoft Ecosystem**: Enterprise-grade applications, backend development, and integration.
+- **Oracle, SqlServer**: Database management, PL/SQL, and data-driven apps.
+
+---
+
+## 🛠️ Personal Projects
+
+- **Arduino**: IoT, automation, sensor programming.
+- **Python**: Scripting, data analysis, small utilities.
+
+Explore my repositories for hands-on examples and code!
+
+---
+
+## 🌱 Always Learning
+
+I enjoy tackling new technologies and sharing knowledge, both through my work and personal projects. Collaboration and continuous improvement are central to my philosophy.
+
+---
+<!--
+
+### 🚀 Technologies & Tools
+
+| .NET | Oracle | Arduino | Python |
+|:----:|:------:|:-------:|:------:|
+| ![dotnet](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) | ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) | ![arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white) | ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+
+---
 -->
-Hi, I'm Albino Cianciotti, **student and developer** from **Italy**. Currently I work with the .NET framework, Oracle and SqlServer for the development of web applications. In my free time I dedicate myself to developing small projects that I post here on GitHub.
+If you enjoy my projects, I'd be grateful if you leave a ⭐!  
 
-<!-- - :computer: I’m currently working on [Air-Quality](https://github.com/albino98/Air-Quality) -->
- :books: I'm currently learning the programming of microcontrollers such as Esp32, Esp8266, Arduino, etc. and more generally the world of electronics.
+---
 
+Thanks for visiting! 
 
-
-
-
-
-<br>
 <br>
 <div>
 
@@ -29,6 +52,8 @@ Hi, I'm Albino Cianciotti, **student and developer** from **Italy**. Currently I
   
 </div>
 <br>
+
+
 
 
 <!--
